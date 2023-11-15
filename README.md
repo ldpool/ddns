@@ -10,4 +10,4 @@
 4.  此版本去掉了 api 解析功能。MikroTik 动态解析脚本
 5.  如遇问题，或需 api MikroTik 动态解析。可扫码索要。
 
-<img src="https://www.51tocn.com/assets/wxkefu-435a0588.png" style="zoom: 10%; margin-left: 40px;" />
+<img src="https://www.51tocn.com/assets/wxkefu-435a0588.png" style="width: 25%; margin-left: 40px;" />
